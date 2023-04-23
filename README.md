@@ -5,6 +5,7 @@ All my Cyber Security Ressources I've collected over the years
 
 ## Free Training
 - [Antisyphon Training Pay What you can](https://www.antisyphontraining.com/pay-what-you-can/) -> [Github Courses](https://github.com/strandjs/IntroLabs) [Training VIM](https://www.antisyphontraining.com/john-strand-training-lab-download-instructions/)
+- [it security lecture](https://github.com/bkimminich/it-security-lecture)
 
 ## Youtubers
 - [John Hammond](https://www.youtube.com/@_JohnHammond)
@@ -22,6 +23,6 @@ All my Cyber Security Ressources I've collected over the years
     - Threat Actor persistence
 - [GTFOBins](https://gtfobins.github.io/)
     - -//- for linux
-
+- [RedTeam Notes](https://www.ired.team/)
 ## Challenges
 - [Vulnhub](https://www.vulnhub.com/)
