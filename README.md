@@ -10,7 +10,10 @@ All my Cyber Security Ressources I've collected over the years
 ## Youtubers
 - [John Hammond](https://www.youtube.com/@_JohnHammond)
 - [crow](https://www.youtube.com/watch?v=aNEqC-U5tHM)
+- [Grant Collins](https://www.youtube.com/@collinsinfosec/videos)
+
 ## Blogs
+
 - [usenix ;login](https://www.usenix.org/publications/loginonline)
     - General IT and Programming
 - [inversecos](https://www.inversecos.com/)
@@ -19,6 +22,7 @@ All my Cyber Security Ressources I've collected over the years
     - Malware Development
 
 ## Documentation
+
 - [LOLBAS](https://lolbas-project.github.io/#)
     - Threat Actor persistence
 - [GTFOBins](https://gtfobins.github.io/)
