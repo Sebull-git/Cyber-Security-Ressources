@@ -9,9 +9,15 @@ All my Cyber Security Ressources I've collected over the years
 
 ## Youtubers
 - [John Hammond](https://www.youtube.com/@_JohnHammond)
+	- The one and only / The GOD
 - [crow](https://www.youtube.com/watch?v=aNEqC-U5tHM)
+	- Malware Development 
 - [Grant Collins](https://www.youtube.com/@collinsinfosec/videos)
-
+	- Malware / Cybersecurity Carrier
+- [The PC Security Channel](https://www.youtube.com/@pcsecuritychannel/videos)
+	- Blueteam / Malware Analysis
+- [Naomi Brockwell](https://www.youtube.com/@NaomiBrockwellTV)
+	- Everyday Cybersecurity
 ## Blogs
 
 - [usenix ;login](https://www.usenix.org/publications/loginonline)
@@ -30,3 +36,4 @@ All my Cyber Security Ressources I've collected over the years
 - [RedTeam Notes](https://www.ired.team/)
 ## Challenges
 - [Vulnhub](https://www.vulnhub.com/)
+	- Vulnerable VMs for your own homelab
