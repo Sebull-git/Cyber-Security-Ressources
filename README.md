@@ -18,6 +18,9 @@ All my Cyber Security Ressources I've collected over the years
 	- Blueteam / Malware Analysis
 - [Naomi Brockwell](https://www.youtube.com/@NaomiBrockwellTV)
 	- Everyday Cybersecurity
+- [Hak5](https://www.youtube.com/@hak5)
+	- Threatwire / Cyber Sec News
+	
 ## Blogs
 
 - [usenix ;login](https://www.usenix.org/publications/loginonline)
@@ -34,6 +37,8 @@ All my Cyber Security Ressources I've collected over the years
 - [GTFOBins](https://gtfobins.github.io/)
     - -//- for linux
 - [RedTeam Notes](https://www.ired.team/)
+
 ## Challenges
+
 - [Vulnhub](https://www.vulnhub.com/)
 	- Vulnerable VMs for your own homelab
