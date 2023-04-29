@@ -20,7 +20,8 @@ All my Cyber Security Ressources I've collected over the years
 	- Everyday Cybersecurity
 - [Hak5](https://www.youtube.com/@hak5)
 	- Threatwire / Cyber Sec News
-	
+- [PwnFunction](https://www.youtube.com/@PwnFunction/videos)
+	- Web	
 ## Blogs
 
 - [usenix ;login](https://www.usenix.org/publications/loginonline)
