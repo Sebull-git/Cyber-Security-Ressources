@@ -41,6 +41,7 @@ All my Cyber Security Ressources I've collected over the years
     - Everything Red Team related
 - [persistence-info](https://persistence-info.github.io/)
     - Living of the Land techniques
+- [Hacktricks](https://book.hacktricks.xyz/welcome/readme)
 
 ## Challenges
 
