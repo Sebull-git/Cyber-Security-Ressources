@@ -38,6 +38,9 @@ All my Cyber Security Ressources I've collected over the years
 - [GTFOBins](https://gtfobins.github.io/)
     - -//- for linux
 - [RedTeam Notes](https://www.ired.team/)
+    - Everything Red Team related
+- [persistence-info](https://persistence-info.github.io/)
+    - Living of the Land techniques
 
 ## Challenges
 
